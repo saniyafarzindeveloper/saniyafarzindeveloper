@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saniyafarzin75@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3YYVhDP](https://bit.ly/3YYVhDP)
+- 📄 Know about my experiences [(http://bit.ly/3NFl3pI)]
 
 - ⚡ Fun fact **I can write poems, edit books!**
 
