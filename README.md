@@ -1,7 +1,7 @@
 <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg" alt="MasterHead" style="width: 100%;"/>
 
 <h1 align="center">Hi 👋, I'm Saniya Farzin</h1>
-<h3 align="center">A passionate frontend developer from India with 2.5+ years of experience working on real world projects!</h3>
+<h3 align="center">A passionate Front-end heavy FullStack Dev from India with 3+ years of experience working on real world projects!</h3>
 
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Real World Projects/Problems**
 
-- 💬 Ask me about **ReactJS, JS, NextJS (Frontend specific tech)**
+- 💬 Ask me about **Latest Tech**
 
 - 📫 How to reach me **saniyafarzin75@gmail.com**
 
-- 📄 Know about my experiences [(http://bit.ly/3NFl3pI)]
+- 📄 Know about my experiences [(http://bit.ly/4iVdRDB)]
 
 - ⚡ Fun fact **I can write poems, edit books!**
 
