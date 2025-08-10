@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [(http://bit.ly/4iVdRDB)]
 
-- ⚡ Fun fact **I can write poems, edit books!**
+- ⚡ Portfolio - [(https://portfolio-ebon-nine-54.vercel.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
