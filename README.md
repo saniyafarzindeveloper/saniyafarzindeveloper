@@ -1,6 +1,6 @@
 <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg" alt="MasterHead" style="width: 100%;"/>
 
-<h1 align="center">Hi 👋, I'm Saniya Farzin</h1>
+<h1 align="center">Greetings! 🥰 I'm Saniya Farzin</h1>
 <h3 align="center">Full Stack developer with 3 years of experience building scalable web applications using React, Next.js, Node.js, and MongoDB
 (MERN). Skilled in frontend and backend development, API design, and delivering end-to-end product features in fast-paced
 startup environments.</h3>
