@@ -13,8 +13,6 @@ startup environments.</h3>
 
 - 👯 I’m looking to collaborate on **Real World Projects/Problems**
 
-- 💬 Ask me about **Latest Tech**
-
 - 📫 How to reach me **saniyafarzin75@gmail.com**
 
 - 📄 Know about my experiences [(http://bit.ly/4iVdRDB)]
